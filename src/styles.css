@@ -1,0 +1,24 @@
+.header {
+    color: blue;
+    font-size: 50px;
+    
+    
+  }
+  ul:first-child {
+    color:green;
+    font-family: courier;
+    font-size: 160%;
+    
+    
+  }
+  .topics{
+    text-align: center;
+    background-color: yellow;
+    padding: 30px;
+    margin: 16px;
+    
+  }
+  div:hover p{
+    display: blockS;
+    color:aqua
+  }
