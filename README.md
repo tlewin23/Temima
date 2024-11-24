@@ -4,8 +4,10 @@
 * Computer systems Architecture
 * product development
 * calculus
-* Pyton
+* Python
 * java
-====================================
+# ====================================
 ## Author: Temima Lewin
 ## Usage: course reference
+
+
