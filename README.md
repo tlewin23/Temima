@@ -1,12 +1,11 @@
 # Computer Science Major
 ### Courses offered semester 1:
 ====================================
-* Computer Systems Architecture (CSA)
-* product Development
-* Calculus
+* Computer systems Architecture
+* product development
+* calculus
 * Python
-* Java
-* Kodesh Option- fot those double majoring
+* java
 # ====================================
 ## Author: Temima Lewin
 ## Usage: course reference
