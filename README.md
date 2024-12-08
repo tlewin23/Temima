@@ -10,4 +10,4 @@
 ## Author: Temima Lewin
 ## Usage: course reference
 
-
+# Lets user know different categories of calculus 
