@@ -1,4 +1,4 @@
-# Computer Science Major
+## Computer Science Major
 ### Courses offered semester 1:
 ====================================
 * Computer systems Architecture
@@ -10,4 +10,4 @@
 ## Author: Temima Lewin
 ## Usage: course reference
 
-# Lets user know different categories of calculus 
+## Lets user know different categories of calculus 
