@@ -6,7 +6,7 @@
 * Calculus
 * Python
 * Java
-* Kodesh Option- fot those double majoring
+* Kodesh Option- for those double majoring, courses listed elsewhere
 # ====================================
 ## Author: Temima Lewin
 ## Usage: course reference
